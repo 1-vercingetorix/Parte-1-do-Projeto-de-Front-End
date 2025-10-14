@@ -1,4 +1,4 @@
-# Projeto Front-End, ODS-7 - EnergyExtra
+# Projeto Front-End, ODS-7 - 🌞 EnergyExtra
 
 ## Primeiro projeto da disciplina de Front-End
 
