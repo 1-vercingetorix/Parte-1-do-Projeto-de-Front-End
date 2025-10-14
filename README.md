@@ -10,4 +10,6 @@ A proposta visa criar um **sistema digital** onde produtores cadastrados possam 
 
 | Categoria | Tecnologias |
 |------------|--------------|
-| **Front-end** | HTML5, CSS3, JavaScript |
+| **Front-end** | HTML5, 
+CSS3, 
+JavaScript |
