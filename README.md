@@ -6,6 +6,10 @@ A proposta visa criar um **sistema digital** onde produtores cadastrados possam 
 
 ---
 
+<h4 align="center"> 
+	:construction:  Projeto em construção  :construction:
+</h4>
+
 ## Tecnologias utilizadas: 
 
 | Categoria | Tecnologias |
